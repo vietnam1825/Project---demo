@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry path="" kind="src"/>
+	<classpathentry path="org.eclipse.jdt.launching.JRE_CONTAINER" kind="con"/>
+	<classpathentry path="lib/jcalendar-1.4.jar" kind="lib"/>
+	<classpathentry path="lib/jgoodies-common-1.2.0.jar" kind="lib"/>
+	<classpathentry path="lib/jgoodies-looks-2.4.1.jar" kind="lib"/>
+	<classpathentry path="lib/junit-4.6.jar" kind="lib"/>
+	<classpathentry path="lib/mysql-connector-java-5.1.18-bin.jar" kind="lib"/>
+	<classpathentry path="" kind="output"/>
+</classpath>

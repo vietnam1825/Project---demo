@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listperson>
+  <person>
+    <numero>1</numero>
+    <name>Nguyen Trong Phuc</name>
+    <birth>11/12/2012</birth>
+    <address>Hai Phong</address>
+  </person>
+  <person>
+    <numero>2</numero>
+    <name>Nguyen Vuong Phong</name>
+    <birth>02/28/1975</birth>
+    <address>Ha Noi</address>
+  </person>
+  <person>
+    <numero>3</numero>
+    <name>Ta Duong Ngoc</name>
+    <birth>05/11/1969</birth>
+    <address>Hai Duong</address>
+  </person>
+  <person>
+    <numero>4</numero>
+    <name>Trinh Van Tam</name>
+    <birth>06/01/1992</birth>
+    <address>Ho Chi Minh</address>
+  </person>
+</listperson>
+
